@@ -1,0 +1,1 @@
+Al variar la desviacion de frecuencia en la señal no se notan cambio devido a que en el archivo base no esta conectada la desviacion en frecuencia.

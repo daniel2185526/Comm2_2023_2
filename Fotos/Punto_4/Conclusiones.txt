@@ -1,0 +1,1 @@
+En la modulacion BPSK en la version RF podemos ver el cambio que hace la señal de 0 a 180(Pi) y en la version EC podemos notar que la compleja imaginaria es cero ya que se modula una señal portadora senosoidal con dosposibles valores de fase 0 y 180 grados estos valores correspondel a los bit 0 y 1 en conclusion la BPSK solo utiliza componente real de la señal compleja
